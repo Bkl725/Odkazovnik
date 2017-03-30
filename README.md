@@ -2,6 +2,7 @@
 FirstComplexApp
 
 _ ABOUT _
+
 This is a result of student project (and no, I'm not studying programming, just have some begginer courses). 
 It's my first "better" application and it's something I really use for work. 
 
