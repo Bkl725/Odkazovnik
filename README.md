@@ -1,9 +1,9 @@
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-		
-		__  Odkazovnik  __
-		__ BETA _ 1.2.0 __
+# Odkazovnik_Beta_1.2.0
 
-	vytvořeno/created by: Jiří Bureš (Bkl725) © 2016-2017
+_		__  Odkazovnik  __
+_		__ BETA _ 1.2.0 __
+
+_	vytvořeno/created by: Jiří Bureš (Bkl725) © 2016-2017
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
@@ -12,10 +12,10 @@ Poslední úprava programu / Last modification: 22.03.2017
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 (CZ)
->> O PROGRAMU <<
+* O PROGRAMU 
 Odkazovník je výsledkem studentské seminární práce. Nestuduji programování ani informatiku, šlo pouze o zájem a nadšení. Program byl napsán v Delphi7 jako vůbec první aplikace, kterou jsem programoval, takže ano je zde velký prostor pro vylepšení (nebo použití modernejších forem programování). Ale vzhledem k mým dovednostem a faktu, že se chci začít věnovat např. c# se Odkazovník již mnoha významných úprav nedočká.
 
->> DŮLEŽITÉ << 
+* DŮLEŽITÉ
 (1) Popis "INSTALACE"
 	- Balíček s programem rozbal/přesuň rozbalený program do libovolné (nejlépe nové) složky na vybraném disku; složku není doporučováno jinak aktivně používat
 	- Vytvoř si zástupce na ploše (kliknutí pravým tlačítkem na program: Odeslat > Plocha (vytvořit zástupce))
@@ -29,14 +29,14 @@ Pravým kliknutím na program (nebo zástupce) > Odstranit potíže s kompatibil
 
 
 (EN)
->> ABOUT <<
+* ABOUT
 This is a result of student project (and no, I'm not studying programming, just have some begginer courses). 
 It's my first "better" application and it's something I really use for work. 
 
 It's wrote in Delphi7 and as I said it's my first project, so I know there is really big space to improve it and so on.
 But my skills aren't so hight and I want to move to the other programming language like - C# (for now).
 
->> IMPORTANT <<
+* IMPORTANT
 (0) There is only czech version of this program!
 (1) "INSTALLATION"
 	- Extract files from ".rar" to the new folder, which won't be use. 
