@@ -24,6 +24,12 @@ _ DŮLEŽITÉ _
 	- Pokud se program zobrazuje "rozmazaně" (Windows): 
 Pravým kliknutím na program (nebo zástupce) > Odstranit potíže s kompatibilitou > Odstranit potíže s programem > "Program se spouští, ale nezobrazuje správně" > "Při výběru velkého měřítka písem se program nezobrazuje správně > Otestovat program > po otevření programu (měl by být již "ostrý") kliknout na "Další" > Uložit tato nastavení pro tento program > "Zavřít"
 
+---------
+
+Jakékoliv další připomínky/dotazy posílejte na: bkl725@seznam.cz 
+
+PŘEJI PŘÍJEMNÉ UŽÍVÁNÍ PROGRAMU :)
+
 
 # (EN)
 _ ABOUT _
@@ -37,6 +43,7 @@ But my skills aren't so hight and I want to move to the other programming langua
 _ IMPORTANT _
 
 (0) There is only czech version of this program!
+
 (1) "INSTALLATION"
 	- Extract files from ".rar" to the new folder, which won't be use. 
 	- Send the Odkazovnik_(yourversion).exe to the deskop (create a new shortcut).
@@ -47,12 +54,8 @@ _ IMPORTANT _
 (3) Solving problems
 	- If you don't see Odkazovnik "sharply": Right-click the program icon, select Properties, and then select the Compatibility tab. And then choose Disable display scaling on high DPI settings.
 
+---------
+
 Any other notes or questions send to: bkl725@seznam.cz 
 
 Thank you for reading, hope this program will be helpfull. :)
-
-------------------------------------------------------------------------------------------------------------
-
-Jakékoliv další připomínky/dotazy posílejte na: bkl725@seznam.cz 
-
-PŘEJI PŘÍJEMNÉ UŽÍVÁNÍ PROGRAMU :)
